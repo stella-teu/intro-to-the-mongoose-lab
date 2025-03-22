@@ -21,5 +21,6 @@
     "dotenv": "^16.4.7",
     "mongoose": "^8.12.2",
     "prompt-sync": "^4.2.0"
-  }
+  },
+  "type": "module"
 }
